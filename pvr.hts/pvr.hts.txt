@@ -1,1 +1,1 @@
-pvr.hts https://github.com/kodi-pvr/pvr.hts Piers
+pvr.hts https://gh-proxy.com/https://github.com/kodi-pvr/pvr.hts Piers

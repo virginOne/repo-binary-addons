@@ -1,1 +1,1 @@
-pvr.wmc https://github.com/kodi-pvr/pvr.wmc Piers
+pvr.wmc https://gh-proxy.com/https://github.com/kodi-pvr/pvr.wmc Piers

@@ -1,1 +1,1 @@
-pvr.plutotv https://github.com/kodi-pvr/pvr.plutotv Piers
+pvr.plutotv https://gh-proxy.com/https://github.com/kodi-pvr/pvr.plutotv Piers

@@ -1,1 +1,1 @@
-screensaver.cpblobs https://github.com/xbmc/screensaver.cpblobs Piers
+screensaver.cpblobs https://gh-proxy.com/https://github.com/xbmc/screensaver.cpblobs Piers

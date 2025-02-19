@@ -1,1 +1,1 @@
-peripheral.joystick https://github.com/xbmc/peripheral.joystick Piers
+peripheral.joystick https://gh-proxy.com/https://github.com/xbmc/peripheral.joystick Piers

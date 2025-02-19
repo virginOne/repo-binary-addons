@@ -1,1 +1,1 @@
-screensaver.asteroids https://github.com/xbmc/screensaver.asteroids Piers
+screensaver.asteroids https://gh-proxy.com/https://github.com/xbmc/screensaver.asteroids Piers

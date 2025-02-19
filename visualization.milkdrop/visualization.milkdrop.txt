@@ -1,1 +1,1 @@
-visualization.milkdrop https://github.com/xbmc/visualization.milkdrop Piers
+visualization.milkdrop https://gh-proxy.com/https://github.com/xbmc/visualization.milkdrop Piers

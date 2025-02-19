@@ -1,1 +1,1 @@
-visualization.starburst https://github.com/xbmc/visualization.starburst Piers
+visualization.starburst https://gh-proxy.com/https://github.com/xbmc/visualization.starburst Piers

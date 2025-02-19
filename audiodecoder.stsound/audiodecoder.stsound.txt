@@ -1,1 +1,1 @@
-audiodecoder.stsound https://github.com/xbmc/audiodecoder.stsound Piers
+audiodecoder.stsound https://gh-proxy.com/https://github.com/xbmc/audiodecoder.stsound Piers

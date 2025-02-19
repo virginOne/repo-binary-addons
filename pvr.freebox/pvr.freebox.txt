@@ -1,1 +1,1 @@
-pvr.freebox https://github.com/aassif/pvr.freebox Piers
+pvr.freebox https://gh-proxy.com/https://github.com/aassif/pvr.freebox Piers

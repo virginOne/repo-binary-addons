@@ -1,1 +1,1 @@
-pvr.vuplus https://github.com/kodi-pvr/pvr.vuplus Piers
+pvr.vuplus https://gh-proxy.com/https://github.com/kodi-pvr/pvr.vuplus Piers

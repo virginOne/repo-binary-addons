@@ -1,1 +1,1 @@
-screensaver.pyro https://github.com/xbmc/screensaver.pyro Piers
+screensaver.pyro https://gh-proxy.com/https://github.com/xbmc/screensaver.pyro Piers

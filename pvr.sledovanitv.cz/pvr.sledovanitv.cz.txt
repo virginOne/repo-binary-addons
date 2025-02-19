@@ -1,1 +1,1 @@
-pvr.sledovanitv.cz https://github.com/palinek/pvr.sledovanitv.cz Piers
+pvr.sledovanitv.cz https://gh-proxy.com/https://github.com/palinek/pvr.sledovanitv.cz Piers

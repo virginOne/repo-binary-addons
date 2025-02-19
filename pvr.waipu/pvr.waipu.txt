@@ -1,1 +1,1 @@
-pvr.waipu https://github.com/flubshi/pvr.waipu Piers
+pvr.waipu https://gh-proxy.com/https://github.com/flubshi/pvr.waipu Piers

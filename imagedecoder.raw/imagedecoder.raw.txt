@@ -1,1 +1,1 @@
-imagedecoder.raw https://github.com/xbmc/imagedecoder.raw Piers
+imagedecoder.raw https://gh-proxy.com/https://github.com/xbmc/imagedecoder.raw Piers

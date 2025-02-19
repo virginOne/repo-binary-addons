@@ -1,1 +1,1 @@
-vfs.sftp https://github.com/xbmc/vfs.sftp Piers
+vfs.sftp https://gh-proxy.com/https://github.com/xbmc/vfs.sftp Piers

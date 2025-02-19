@@ -1,1 +1,1 @@
-audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Piers
+audiodecoder.timidity https://gh-proxy.com/https://github.com/xbmc/audiodecoder.timidity Piers

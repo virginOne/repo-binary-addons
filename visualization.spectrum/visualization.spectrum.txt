@@ -1,1 +1,1 @@
-visualization.spectrum https://github.com/xbmc/visualization.spectrum Piers
+visualization.spectrum https://gh-proxy.com/https://github.com/xbmc/visualization.spectrum Piers

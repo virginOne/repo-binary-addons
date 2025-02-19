@@ -1,1 +1,1 @@
-audiodecoder.modplug https://github.com/xbmc/audiodecoder.modplug Piers
+audiodecoder.modplug https://gh-proxy.com/https://github.com/xbmc/audiodecoder.modplug Piers

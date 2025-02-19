@@ -1,1 +1,1 @@
-visualization.matrix https://github.com/xbmc/visualization.matrix Piers
+visualization.matrix https://gh-proxy.com/https://github.com/xbmc/visualization.matrix Piers

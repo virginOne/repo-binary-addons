@@ -1,1 +1,1 @@
-screensaver.asterwave https://github.com/xbmc/screensaver.asterwave Piers
+screensaver.asterwave https://gh-proxy.com/https://github.com/xbmc/screensaver.asterwave Piers

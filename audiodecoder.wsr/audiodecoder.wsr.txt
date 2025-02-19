@@ -1,1 +1,1 @@
-audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Piers
+audiodecoder.wsr https://gh-proxy.com/https://github.com/xbmc/audiodecoder.wsr Piers

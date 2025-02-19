@@ -1,1 +1,1 @@
-imagedecoder.mpo https://github.com/xbmc/imagedecoder.mpo Piers
+imagedecoder.mpo https://gh-proxy.com/https://github.com/xbmc/imagedecoder.mpo Piers

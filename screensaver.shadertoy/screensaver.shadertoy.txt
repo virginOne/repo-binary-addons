@@ -1,1 +1,1 @@
-screensaver.shadertoy https://github.com/xbmc/screensaver.shadertoy Piers
+screensaver.shadertoy https://gh-proxy.com/https://github.com/xbmc/screensaver.shadertoy Piers

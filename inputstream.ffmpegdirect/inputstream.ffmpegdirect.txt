@@ -1,1 +1,1 @@
-inputstream.ffmpegdirect https://github.com/xbmc/inputstream.ffmpegdirect Piers
+inputstream.ffmpegdirect https://gh-proxy.com/https://github.com/xbmc/inputstream.ffmpegdirect Piers

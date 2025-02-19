@@ -1,1 +1,1 @@
-pvr.vdr.vnsi https://github.com/kodi-pvr/pvr.vdr.vnsi Piers
+pvr.vdr.vnsi https://gh-proxy.com/https://github.com/kodi-pvr/pvr.vdr.vnsi Piers

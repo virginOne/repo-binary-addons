@@ -1,1 +1,1 @@
-audiodecoder.sidplay https://github.com/xbmc/audiodecoder.sidplay Piers
+audiodecoder.sidplay https://gh-proxy.com/https://github.com/xbmc/audiodecoder.sidplay Piers

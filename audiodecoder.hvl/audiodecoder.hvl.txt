@@ -1,1 +1,1 @@
-audiodecoder.hvl https://github.com/xbmc/audiodecoder.hvl Piers
+audiodecoder.hvl https://gh-proxy.com/https://github.com/xbmc/audiodecoder.hvl Piers

@@ -1,1 +1,1 @@
-pvr.njoy https://github.com/kodi-pvr/pvr.njoy Piers
+pvr.njoy https://gh-proxy.com/https://github.com/kodi-pvr/pvr.njoy Piers

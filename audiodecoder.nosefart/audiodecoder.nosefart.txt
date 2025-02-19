@@ -1,1 +1,1 @@
-audiodecoder.nosefart https://github.com/xbmc/audiodecoder.nosefart Piers
+audiodecoder.nosefart https://gh-proxy.com/https://github.com/xbmc/audiodecoder.nosefart Piers

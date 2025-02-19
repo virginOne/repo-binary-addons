@@ -1,1 +1,1 @@
-pvr.hdhomerun https://github.com/kodi-pvr/pvr.hdhomerun Piers
+pvr.hdhomerun https://gh-proxy.com/https://github.com/kodi-pvr/pvr.hdhomerun Piers

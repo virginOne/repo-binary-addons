@@ -1,1 +1,1 @@
-audiodecoder.sacd https://github.com/xbmc/audiodecoder.sacd Piers
+audiodecoder.sacd https://gh-proxy.com/https://github.com/xbmc/audiodecoder.sacd Piers

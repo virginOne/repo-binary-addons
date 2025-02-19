@@ -1,1 +1,1 @@
-peripheral.xarcade https://github.com/kodi-game/peripheral.xarcade Piers
+peripheral.xarcade https://gh-proxy.com/https://github.com/kodi-game/peripheral.xarcade Piers

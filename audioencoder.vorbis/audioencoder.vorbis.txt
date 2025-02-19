@@ -1,1 +1,1 @@
-audioencoder.vorbis https://github.com/xbmc/audioencoder.vorbis Piers
+audioencoder.vorbis https://gh-proxy.com/https://github.com/xbmc/audioencoder.vorbis Piers

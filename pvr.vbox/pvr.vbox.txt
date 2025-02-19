@@ -1,1 +1,1 @@
-pvr.vbox https://github.com/kodi-pvr/pvr.vbox Piers
+pvr.vbox https://gh-proxy.com/https://github.com/kodi-pvr/pvr.vbox Piers

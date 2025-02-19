@@ -1,1 +1,1 @@
-audiodecoder.ssf https://github.com/xbmc/audiodecoder.ssf Piers
+audiodecoder.ssf https://gh-proxy.com/https://github.com/xbmc/audiodecoder.ssf Piers

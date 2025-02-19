@@ -1,1 +1,1 @@
-audioencoder.flac https://github.com/xbmc/audioencoder.flac Piers
+audioencoder.flac https://gh-proxy.com/https://github.com/xbmc/audioencoder.flac Piers

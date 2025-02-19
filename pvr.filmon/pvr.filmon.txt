@@ -1,1 +1,1 @@
-pvr.filmon https://github.com/kodi-pvr/pvr.filmon Piers
+pvr.filmon https://gh-proxy.com/https://github.com/kodi-pvr/pvr.filmon Piers

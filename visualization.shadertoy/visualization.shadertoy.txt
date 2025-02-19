@@ -1,1 +1,1 @@
-visualization.shadertoy https://github.com/xbmc/visualization.shadertoy Piers
+visualization.shadertoy https://gh-proxy.com/https://github.com/xbmc/visualization.shadertoy Piers

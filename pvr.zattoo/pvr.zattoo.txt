@@ -1,1 +1,1 @@
-pvr.zattoo https://github.com/rbuehlma/pvr.zattoo Piers
+pvr.zattoo https://gh-proxy.com/https://github.com/rbuehlma/pvr.zattoo Piers
